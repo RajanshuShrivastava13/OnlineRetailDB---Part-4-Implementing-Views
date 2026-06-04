@@ -14,3 +14,4 @@ This script features precise logical solutions mapped to the requirements specif
 ---
 ## How to Run Legacies
 Execute the main file inside SSMS or your web compiler sandboxes. The queries use standard optimized cross-joins between isolated views to compute production-ready management information reports (MIS).
+** https://onecompiler.com/sqlserver/44rarahbv **
